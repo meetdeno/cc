@@ -71,13 +71,13 @@ const products = {
             name: "Classic Black Cap", 
             price: "₦15,000", 
             desc: "Premium black cap for everyday wear", 
-            image: 'https://lh3.googleusercontent.com/d/1mKy4NoLx7jDudt_cbMZjhl8EIdEKlhlq' 
+            image: 'https://i.ibb.co/4Zbv3RwH/Snapchat-1262587088.jpg' 
         },
         { 
             name: "Navy Blue Cap", 
             price: "₦16,000", 
             desc: "Comfortable navy blue premium cap", 
-            image: 'https://drive.google.com/thumbnail?id=1mKy4NoLx7jDudt_cbMZjhl8EIdEKlhlq&sz=w1000' 
+            image: 'https://i.ibb.co/cX30nPTM/Photoroom-20241025-081728.png' 
         },
         { 
             name: "Olive Green Cap", 
@@ -758,4 +758,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Make guide function available globally
 window.showDriveUploadGuide = showDriveUploadGuide;
+
 window.convertToDirectLink = convertToDirectLink;
